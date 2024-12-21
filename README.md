@@ -96,7 +96,7 @@ The question table is prepopulated with the following data:
 | ID | Question                              | Option A | Option B | Option C | Option D | Correct Answer |
 |----|---------------------------------------|----------|----------|----------|----------|----------------|
 | 1  | What is the capital of UK?       | Paris    | London   | Berlin   | Madrid   | A              |
-| 2  | What is 5*6 ?                       | 3        | 4        | 5        | 6        | B              |
+| 2  | What is 2 * 3 ?                       | 3        | 4        | 5        | 6        | B              |
 | 3  | Which language is used for Android?  | Python   | Kotlin   | C++      | Ruby     | B              |
 
 ---
